@@ -69,18 +69,6 @@ Here are three core projects I have designed and implemented, showcasing my skil
 * **Security & Syscall Sandboxing:** Executes untrusted python scripts inside OCI-compliant runtimes restricted by AppArmor and Seccomp profiles, utilizing read-only volume mounts and copy-on-write workspaces to protect the host machine.
 * *Stack: Python, FastAPI, Celery, PyVista, qd-library, lasso-python, SQLite, Autogen, FastMCP*
 
----
 
-## Git & Profile Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhen1991-ch&show_icons=true&theme=radical&count_private=true" alt="Github Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhen1991-ch&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
 
 *“Code with first-principles, build with AI agents, and design for the user.”*
