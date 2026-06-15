@@ -48,14 +48,14 @@ I specialize in orchestrating **Multi-Agent Systems**, designing **Model Context
 
 Here are three core projects I have designed and implemented, showcasing my skills in full-stack architecture, edge serverless computing, and AI agent orchestration.
 
-### 1. CoCal (AI-Powered Life OS)
+### 1. [CoCal](https://cocal.me) (AI-Powered Life OS)
 *A collaborative, real-time productivity monorepo uniting calendar blocking, task management, document RAG, and headless browser VM automation.*
 * **Full-Stack Architecture:** Next.js 16 App Router frontend paired with a Python FastAPI backend, using Supabase for database row-level security (RLS) and real-time state synchronization.
 * **Headless Browser VM (noVNC):** Spins up Docker-isolated browser runtimes utilizing Playwright to automatically join and record online meetings (FFmpeg + PulseAudio virtual sound card loopback), featuring an **in-browser VNC canvas (noVNC)** for real-time manual takeover.
 * **Dreaming Consolidation Engine:** A background memory consolidation engine that computes cosine similarity embeddings on project and user memories, resolving logical conflicts and merging duplicates using Gemini 2.5 Flash.
 * *Stack: Next.js 16, React 19, FastAPI, Supabase (PostgreSQL/pgvector), Redis, Playwright, noVNC, Google Gemini API, Stripe*
 
-### 2. BillCheck (AI-Powered Expense OS)
+### 2. [BillCheck](https://bill-check.de) (AI-Powered Expense OS)
 *A cross-platform React Native app with a Serverless Cloudflare Workers edge backend for intelligent document parsing and financial forecasting.*
 * **Edge & Serverless API:** Cloudflare Workers backend implementing Firebase Authentication bearer token verification, routing JSON and visual requests globally with zero cold starts.
 * **Long Context Compression:** Created a smart context utility that converts transaction databases from JSON to CSV or ultra-compact text depending on query complexity, **reducing LLM token usage by 60-70%** and enabling cheap, long-context reasoning over 1000+ items.
